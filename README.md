@@ -12,7 +12,7 @@ El server recibirá el mensaje enviado por el client caracter por caracter.
 
 Instrucciones del bonus:
 <code>make bonus</code>
-Para compilar los ejecutables <code>.\sever_bonus</code> y <code>client_bonus<\code>
+Para compilar los ejecutables <code>.\sever_bonus</code> y <code>.\client_bonus</code>
 Al ejecutar el server_bonus arroja un PID.
 Para utilizar el client_bonus debes ejecutarlo usando como primer argumento el PID arrojado por el server_bonus, seguido del mensaje que quieras enviar utilizando comillas dobles.
 El server_bonus recibirá el mensaje enviado por el client_bonus caracter por caracter y enviará un mensaje de confirmación al cliente_bonus.
