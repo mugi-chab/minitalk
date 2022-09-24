@@ -15,7 +15,7 @@ Instrucciones del bonus:
 Para compilar los ejecutables <code>.\sever_bonus</code> y <code>.\client_bonus</code> <br>
 Al ejecutar el server_bonus arroja un PID.<br>
 Para utilizar el client_bonus debes ejecutarlo (en una terminal distina al del server_bonus) usando como primer argumento el PID arrojado por el server_bonus, espacio y seguido del mensaje que quieras enviar, metido entre comillas dobles.<br>
-El server_bonus recibirá el mensaje enviado por el client_bonus caracter por caracter y enviará un mensaje de confirmación al cliente_bonus.
+El server_bonus recibirá el mensaje enviado por el client_bonus caracter por caracter y enviará un mensaje de confirmación al client_bonus.
 
 
 [es.subject.pdf](https://github.com/mugi-chab/minitalk/files/9626207/es.subject.pdf)
